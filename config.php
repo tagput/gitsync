@@ -1,6 +1,6 @@
 <?php
 class Config{
-	public static $myvar="frankcm";
+	public static $myvar="tagput";
 }
 
 ?>
